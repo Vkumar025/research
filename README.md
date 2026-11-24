@@ -101,7 +101,7 @@ streamlit run app.py
 The application will open in your browser at:
 
 ```
-http://localhost:8501
+http://localhost:5173
 ```
 
 ---
@@ -155,7 +155,6 @@ This project is licensed under the MIT License.
 
 ## 👨‍💻 Author
 
-**Ayush Gupta**
+**Vivek Kumar**
 
-- GitHub: https://github.com/ayushgupta1123
-- LinkedIn: Add your LinkedIn profile here
+- GitHub: https://github.com/Vkumar025
