@@ -52,7 +52,7 @@ Multi_agent_research_system/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/ayushgupta1123/Multi_agent_research_system.git
+git clone https://github.com/Vkumar025/Multi_agent_research_system.git
 cd Multi_agent_research_system
 ```
 
